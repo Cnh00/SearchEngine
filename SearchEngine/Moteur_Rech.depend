@@ -1,0 +1,187 @@
+# depslib dependency file v1.0
+1652567639 source:c:\users\user\desktop\moteur_rech\main.cpp
+	<iostream>
+	"analyseurFreq2.h"
+	"analyseurFreq.h"
+	"TraiteurMaj.h"
+	"TraiteurPonct.h"
+	"TraiteurPro.h"
+	"moteur.h"
+	"ordoScore.h"
+	"index.h"
+	"indexVect.h"
+	"Lecteur2.h"
+	"lecteur_lect.h"
+	<vector>
+	<string>
+	"stat.h"
+	<algorithm>
+	<dirent.h>
+
+1652532357 source:c:\users\user\desktop\moteur_rech\analyseurfreq2.cpp
+	"stat.h"
+	<vector>
+	"analyseurFreq2.h"
+	<bits/stdc++.h>
+
+1652435435 c:\users\user\desktop\moteur_rech\stat.h
+	<iostream>
+	<string>
+
+1652279448 c:\users\user\desktop\moteur_rech\analyseurfreq2.h
+	"stat.h"
+	<vector>
+	"Analyseur.h"
+
+1652279757 c:\users\user\desktop\moteur_rech\analyseur.h
+	"stat.h"
+	<vector>
+
+1652280468 c:\users\user\desktop\moteur_rech\analyseurfreq.h
+	"stat.h"
+	<vector>
+	"Analyseur.h"
+
+1652280770 source:c:\users\user\desktop\moteur_rech\analyseurfreq.cpp
+	"stat.h"
+	<vector>
+	"analyseurFreq.h"
+	<bits/stdc++.h>
+
+1652284494 source:c:\users\user\desktop\moteur_rech\traiteurmaj.cpp
+	<vector>
+	<string>
+	"TraiteurMaj.h"
+	"iostream"
+
+1652282412 c:\users\user\desktop\moteur_rech\traiteurmaj.h
+	<vector>
+	<string>
+	"traiteurText.h"
+
+1652281676 c:\users\user\desktop\moteur_rech\traiteurtext.h
+	<vector>
+	<string>
+
+1652284647 c:\users\user\desktop\moteur_rech\traiteurponct.h
+	<vector>
+	<string>
+	"traiteurText.h"
+
+1652550840 source:c:\users\user\desktop\moteur_rech\traiteurponct.cpp
+	<vector>
+	<string>
+	"TraiteurPonct.h"
+	"iostream"
+
+1652567328 source:c:\users\user\desktop\moteur_rech\moteur.cpp
+	<vector>
+	<string>
+	<iostream>
+	<algorithm>
+	"moteur.h"
+
+1652457771 c:\users\user\desktop\moteur_rech\moteur.h
+	"Analyseur.h"
+	"traiteurText.h"
+	"ordonnanceur.h"
+	"indexVect.h"
+	<vector>
+	<string>
+
+1652435457 source:c:\users\user\desktop\moteur_rech\stat.cpp
+	"stat.h"
+	<string>
+
+1652477357 c:\users\user\desktop\moteur_rech\ordonnanceur.h
+	"Stat.h"
+	<vector>
+
+1652563896 source:c:\users\user\desktop\moteur_rech\ordoscore.cpp
+	"stat.h"
+	"ordoScore.h"
+	"Couple.h"
+	<vector>
+	<string>
+	<bits/stdc++.h>
+
+1652457771 c:\users\user\desktop\moteur_rech\ordoscore.h
+	"stat.h"
+	"ordonnanceur.h"
+
+1652352961 c:\users\user\desktop\moteur_rech\index.h
+	"stat.h"
+	<vector>
+
+1652569552 source:c:\users\user\desktop\moteur_rech\indexvect.cpp
+	"stat.h"
+	<vector>
+	"indexVect.h"
+	<typeinfo>
+	<algorithm>
+	<fstream>
+
+1652569026 c:\users\user\desktop\moteur_rech\indexvect.h
+	"stat.h"
+	"index.h"
+	<vector>
+	<fstream>
+
+1652454250 c:\users\user\desktop\moteur_rech\lecteur2.h
+	<vector>
+	<string>
+
+1652454250 source:c:\users\user\desktop\moteur_rech\lecteur2.cpp
+	"Lecteur2.h"
+	<dirent.h>
+	<vector>
+	<string>
+
+1652451569 source:c:\users\user\desktop\moteur_rech\lecteur_lect.cpp
+	"lecteur_lect.h"
+	<iostream>
+	<vector>
+	<fstream>
+
+1652451770 c:\users\user\desktop\moteur_rech\lecteur_lect.h
+	"lecteur.h"
+	<iostream>
+	<vector>
+	<fstream>
+
+1650833012 c:\users\user\desktop\moteur_rech\lecteur.h
+	<iostream>
+	<vector>
+	<fstream>
+
+1652477482 source:c:\users\user\desktop\moteur_rech\indexmap.cpp
+	<map>
+	<vector>
+	"indexMap.h"
+	"stat.h"
+
+1652459769 c:\users\user\desktop\moteur_rech\indexmap.h
+	"stat.h"
+	<vector>
+	<map>
+
+1652550376 c:\users\user\desktop\moteur_rech\traiteurpro.h
+	<vector>
+	<string>
+	"traiteurText.h"
+
+1652550362 source:c:\users\user\desktop\moteur_rech\traiteurpro.cpp
+	<vector>
+	<string>
+	"TraiteurPro.h"
+	<iostream>
+	<vector>
+	<fstream>
+
+1652558226 source:c:\users\user\desktop\moteur_rech\couple.cpp
+	"Couple.h"
+
+1652560853 c:\users\user\desktop\moteur_rech\couple.h
+	<iostream>
+	<string>
+

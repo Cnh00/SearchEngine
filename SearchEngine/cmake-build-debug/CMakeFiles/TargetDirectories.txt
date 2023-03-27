@@ -1,0 +1,3 @@
+C:/CN/projects/saerch/cmake-build-debug/CMakeFiles/saerch.dir
+C:/CN/projects/saerch/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CN/projects/saerch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
